@@ -101,6 +101,6 @@ print(positive_data.head())
 
       
 # RESULT:
-      Thus, the given dataset was successfully read, the feature encoding and transformation processes were performed, and the final processed data was saved to a new file.
+Thus, the given dataset was successfully read, the feature encoding and transformation processes were performed, and the final processed data was saved to a new file.
 
        
